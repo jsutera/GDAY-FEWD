@@ -1,0 +1,22 @@
+h1 {
+  color: #000000;
+  background-color: #FFF000;
+  border-spacing: 100;
+  margin: 100;
+  border-spacing: 100
+
+}
+
+.matrix {
+    border-spacing: 2;
+    margin: 100;
+
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: red; 
+  margin: 50px;
+  border: 5;
+}

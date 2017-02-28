@@ -1,0 +1,29 @@
+div {
+  background-color: #D3D3D3;
+  height: auto;
+  width: 850px;
+  padding: 5px 5px 5px 5px;
+  margin: 6px}
+
+
+p#shead {background-color: #000000;
+  color: #FFFFFF;
+  margin-top: 15;
+  margin-bottom: 15;
+padding: 20;}
+
+p#s1 {background-color: #000000;
+color: #FFFFFF;
+margin: 100;}
+
+p#s2 {background-color: #ff6100;
+  color: blue;
+}
+
+p#s3 {background-color: #ff6100;
+  color: green;
+}
+
+p#s4 {background-color: #ff6100;
+  color: yellow;
+}
