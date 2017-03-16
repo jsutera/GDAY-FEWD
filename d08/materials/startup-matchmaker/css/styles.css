@@ -63,4 +63,6 @@ div#contents {
   padding: 6 6 6 6;
 }
 
-
+div#container a {
+  text-decoration: none;
+}
