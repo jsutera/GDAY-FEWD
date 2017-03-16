@@ -1,0 +1,51 @@
+h1 {
+text-align: right;
+}
+
+div.contain {
+  width: 960px;
+  margin: 0 auto;
+}
+
+span {
+  display: inline-block;
+}
+
+div.logo_flag {
+  background-color: red;
+  color: #FFFFFF;
+  width: 150px;
+  display: inline-block;
+  margin-right: 0px;
+}
+
+div.hero img {
+  width: 100%;
+}
+
+div.content p {
+  margin-left: 250px;
+  margin-right: 250px;
+  height: 100%;
+  font-family: Arial;
+
+}
+
+div.bottomnav {
+  display: block;
+  margin-left: 250px;
+  margin-right: 250px;
+  background-color: grey;
+  font-family: Arial;
+}
+
+.button {
+    background-color: grey; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
