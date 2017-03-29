@@ -8,6 +8,10 @@
 * p{
   font-family: 'Merriweather', sans-serif;
 }
+
+p a{
+  
+}
 body {
   max-width:1140px;
   margin: 0 auto;
@@ -15,11 +19,20 @@ body {
 
 header{
  background-color: #000000 ;
+  border-bottom: 5px solid yellow;
 }
 
 header a {
   color: #FFFFFF;
 }
+
+#bkgrImg {
+ height: 325px;
+ width: 100%;
+ background-image: url('../img/coworking.jpg');
+ background-position: center;
+ background-size:cover;
+ }
 
 div#subheader {
 background-color: grey;
